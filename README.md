@@ -1,4 +1,4 @@
-# Projetinho
+# Projeto
 
 Projeto simples em Java para praticar Comparable e Comparator
 
@@ -18,4 +18,3 @@ Projeto simples em Java para praticar Comparable e Comparator
    java Main
 
 
-Obrigada 
